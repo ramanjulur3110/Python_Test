@@ -1,1 +1,1 @@
-print ("This is a file crated on GitHub")
+print ("This is a file created on GitHub")
